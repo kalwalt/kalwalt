@@ -4,7 +4,7 @@ I am not a professional developer or a software engineer, but i love coding and 
 
 - 🔭 I’m currently working on [ARnft](https://github.com/webarkit/ARnft) and [JsartoolkitNFT](https://github.com/webarkit/jsartoolkitNFT) part of the [webarkit org](https://github.com/webarkit) for our long term project [webarkit](https://www.webarkit.org/).
 - 🌱 I’m currently learning Typescript, Rust and other languages.
-- 👯 I’m co-founder with @ThorstenBux of webarkit
+- 👯 I’m co-founder with [@ThorstenBux](https://github.com/ThorstenBux) of webarkit
 <!--
 **kalwalt/kalwalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
